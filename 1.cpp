@@ -12,7 +12,7 @@ int main(void)
     z=subtraction(7,2);
     std::cout<< "The first result is " <<z<<"\n";
     std::cout<< "la ubicacion de x en memoria es " <<&x<<"\n";
-    std::cout<< "la ubicacion de y en memoria es " <<&y<<"\n";
+    std::cout<< "la ubicacion de y en memoria es " <<&y<<"\n";asdasdasda
     std::cout<< "la ubicacion de z en memoria es " <<&z<<"\n";
     std::cout<< "The second result is " <<subtraction(7,2)<<"\n";
     std::cout<< "The third result is " <<subtraction(x,y)<<"\n";
